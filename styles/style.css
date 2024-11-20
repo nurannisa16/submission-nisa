@@ -19,7 +19,7 @@ header {
   text-align: center;
 }
 
-.navbar-container {
+.navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -28,17 +28,17 @@ header {
   padding: 0 2rem;
 }
 
-.nav-list {
+.list {
   list-style: none;
   display: flex;
   gap: 1rem;
 }
 
-.nav-list a {
+.list a {
   text-decoration: none;
   color: #333;
 }
-.content{
+.isi{
   display: flex;
   flex-direction: row;
 }
